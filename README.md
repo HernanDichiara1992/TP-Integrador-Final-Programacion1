@@ -30,3 +30,7 @@ El uso de un método de ordenamiento eficiente (sort()) es clave para trabajar c
 Material teórico de la cátedra.
 Documentación oficial de Python: https://docs.python.org/3/library/
 Apuntes de clase y experimentación propia.
+
+-Video explicativo:
+El video con la presentación del trabajo y la demostración del código está disponible en el siguiente enlace (modo oculto en YouTube):  
+https://youtu.be/2ce-FKtFFz8
